@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+jersey-app/src-tauri/target/
+jersey-app/dist/
+
+# Trash
+trash/
+
+# Blender files (large)
+*.blend
+*.blend1
+
+# Temp files
+*.log
+*.out
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
